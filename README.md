@@ -1,1 +1,1 @@
-# Estat-stica-com-Python-probabilidade-e-amostragem
+# Estatistica-com-Python-probabilidade-e-amostragem
